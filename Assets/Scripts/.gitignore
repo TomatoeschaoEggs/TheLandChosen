@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+
+#Unity 3D资源商店和插件
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/Jetbrains*
+
+.DS_Store
+Thumbs.db
